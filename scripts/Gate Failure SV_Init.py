@@ -5,6 +5,7 @@ import os.path
 ## READ ME USER
 # This script goes in a state variable that MUST be called "GateControl" for the rules to find it.
 # The script must be placed in the inititalization tab.  The main and cleanup scripts can be left as-is or blank.
+# Suggest adding note on what Parameter Name and Parameter Type to use
 
 
 # Steps in this script
